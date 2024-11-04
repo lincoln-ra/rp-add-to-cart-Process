@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Earbuds",
+        "category": "Electronics",
+        "price": 49.99,
+        "inStock": true,
+        "rating": 4.5,
+        "reviews": 120,
+        "description": "Compact and high-quality sound with noise cancellation.",
+        "image": "https://i.imgur.com/985WeJf.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Stainless Steel Water Bottle",
+        "category": "Home & Kitchen",
+        "price": 19.99,
+        "inStock": true,
+        "rating": 4.7,
+        "reviews": 300,
+        "description": "Keeps your drinks cold for 24 hours and hot for 12 hours.",
+        "image": "https://i.imgur.com/exMVr4t.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "price": 29.99,
+        "inStock": false,
+        "rating": 4.3,
+        "reviews": 89,
+        "description": "Eco-friendly material with non-slip surface.",
+        "image": "https://i.imgur.com/Z5Qx86N.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Smartphone Tripod",
+        "category": "Photography",
+        "price": 15.99,
+        "inStock": true,
+        "rating": 4.4,
+        "reviews": 210,
+        "description": "Flexible tripod with universal phone mount.",
+        "image": "https://i.imgur.com/PdXfnC7.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Mouse",
+        "category": "Electronics",
+        "price": 39.99,
+        "inStock": true,
+        "rating": 4.8,
+        "reviews": 540,
+        "description": "Ergonomic design with customizable RGB lighting.",
+        "image": "https://i.imgur.com/hmuVY1x.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Electric Kettle",
+        "category": "Home Appliances",
+        "price": 24.99,
+        "inStock": false,
+        "rating": 4.6,
+        "reviews": 180,
+        "description": "1.7L fast boiling electric kettle with auto shut-off.",
+        "image": "https://i.imgur.com/caV576t.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Men's Running Shoes",
+        "category": "Footwear",
+        "price": 59.99,
+        "inStock": true,
+        "rating": 4.2,
+        "reviews": 150,
+        "description": "Lightweight and breathable with cushioned support.",
+        "image": "../src/assets/photo-1542291026-7eec264c27ff.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Wireless Charger",
+        "category": "Electronics",
+        "price": 18.99,
+        "inStock": true,
+        "rating": 4.3,
+        "reviews": 95,
+        "description": "Fast charging pad compatible with most smartphones.",
+        "image": "https://i.imgur.com/KPOxKtd.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Digital Alarm Clock",
+        "category": "Home & Kitchen",
+        "price": 14.99,
+        "inStock": true,
+        "rating": 4.1,
+        "reviews": 75,
+        "description": "LED display with dual alarm and snooze function.",
+        "image": "https://i.imgur.com/xwhhGl4.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 34.99,
+        "inStock": true,
+        "rating": 4.6,
+        "reviews": 230,
+        "description": "Durable backpack with multiple compartments for travel.",
+        "image": "../src/assets/360_F_834113319_yO7upiIIBY8eeWWEb98YlDRzhOtjOzWB.jpg"
+    }
+]
