@@ -2,3 +2,24 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+
+@media 
+
+.image {
+    width: 200px;
+    height: 130px;
+    border-radius: 8px;
+}
+
+.cartedItems {
+    display: flex;
+    gap: 20px;
+    border: solid orangered 3px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.cartedDetails {
+    display: flex;
+    justify-content: space-around;
+}

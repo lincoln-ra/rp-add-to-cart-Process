@@ -26,6 +26,21 @@ const Products = () => {
 
             {/* cart section */}
             <h5>cart:{cart.length}</h5>
+            <div className='cartContainer'>
+                {
+                    cart.map(product => <div  className='cartedItems' key={product.id} ><img className='image' src={product.image} alt="" />
+                    <div>
+                    <h3>{product.name}</h3>
+                   <div className='cartedDetails'>
+                    <span> <b>Price</b>: {product.price}</span>
+                    <span><b>Rating</b>: {product.rating}</span>
+                  
+                   
+                   </div>
+                    </div>
+                    </div> )
+                }
+            </div>
 
 
             {/* cards will be displayed */}
